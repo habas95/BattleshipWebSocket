@@ -1,0 +1,6 @@
+com\eikholm\websocketprep\controller\GreetingController.class
+com\eikholm\websocketprep\model\WebSocketMessage.class
+com\eikholm\websocketprep\configuration\WebSocketConfig.class
+com\eikholm\websocketprep\WebsocketprepApplication.class
+com\eikholm\websocketprep\model\Greeting.class
+com\eikholm\websocketprep\model\WebSocketCoordinate.class
